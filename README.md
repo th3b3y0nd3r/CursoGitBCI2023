@@ -5,12 +5,14 @@
 #### Integrantes
 
 1) Domingo Saavedra
-2) Carlos Aedo
-3) Douglexys Matheus
-4) Silvana Salles
-5) Lorena Campillay
-6) Douglexys Matheus
-7) Silvana Salles
-8) Guillermo Bateman
+2) Karelis Roa
+3) Carlos Aedo
+4) Douglexys Matheus
+5) Silvana Salles
+6) Lorena Campillay
+7) Douglexys Matheus
+8) Silvana Salles
+9) Guillermo Bateman
+
 
 
